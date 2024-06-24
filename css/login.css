@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: #24353F;
+}
+h1{
+    color: #17A2B8;
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 500;
+    line-height: 48px;
+}   
+.container{
+    border: 1px solid black;
+}
+input{
+    background-color: transparent !important;
+    color: white !important;
+
+}
+::placeholder{
+    color: #B6B6B6 !important;
+}
+.btn{
+    border-color: #17A2B8;
+    color: #17A2B8;
+}
+.btn:hover{
+    background-color: #17A2B8;
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}

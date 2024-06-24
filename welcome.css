@@ -1,0 +1,18 @@
+body{
+    background-color: #24353F ;
+}
+
+.welcome {
+    color: #17A2B8;
+    margin-top: 60px;
+    padding: 30px;
+    
+}
+.navbar{
+    background-color: #24353F !important;
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+
+}
+.group{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
